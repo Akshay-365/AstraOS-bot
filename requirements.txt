@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+requests
+telebot
+av == 14.3.0
+streamlit
+python-telegram-bot
+asyncio
